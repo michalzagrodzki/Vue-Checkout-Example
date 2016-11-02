@@ -1,3 +1,5 @@
+// This file is unused temporarily
+
 export const checkoutStatus = state => state.cart.checkoutStatus
 
 export const allProducts = state => state.products.all

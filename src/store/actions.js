@@ -1,3 +1,5 @@
+// This file is unused temporarily
+
 import shop from '../api/shop'
 import * as types from './mutation-types'
 
